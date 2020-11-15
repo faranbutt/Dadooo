@@ -5,7 +5,7 @@ Faran Taimoor Butt
 ```
 CGPA=2.88
 ```
-**F.Sc Pre Engineering
+**F.Sc Pre Engineering**
 ```
 Grade:A
 ```
