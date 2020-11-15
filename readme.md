@@ -16,5 +16,12 @@ Grade:A
 2. Electrical Power Inspection
 ```
 
+### Skills
+**Soft :**
+```
+1. Creative writing
+2. Critical Thinking
+3. Oral Communication
+```
 
 
